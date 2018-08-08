@@ -1,0 +1,5 @@
+D:\FYP\DAL\bin\Release\DAL.dll
+D:\FYP\DAL\bin\Release\DAL.pdb
+D:\FYP\DAL\obj\Release\DAL.dll
+D:\FYP\DAL\obj\Release\DAL.pdb
+D:\FYP\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache

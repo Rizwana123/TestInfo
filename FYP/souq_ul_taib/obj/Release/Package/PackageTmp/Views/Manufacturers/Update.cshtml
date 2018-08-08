@@ -1,0 +1,60 @@
+﻿
+@{
+    ViewBag.Title = "Update";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!-- Page Content -->
+<div class="container">
+
+    <!-- Page Heading/Breadcrumbs -->
+    <h1 class="mt-4 mb-3">
+        Manufacturer
+    </h1>
+
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+            <a href="@Url.Action("Index","Home")">Home</a>
+        </li>
+        <li class="breadcrumb-item active">Manufacturer Update</li>
+    </ol>
+
+
+
+    <!-- Contact Form -->
+    <!-- In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
+    <div class="row">
+        <div class="col-lg-8 mb-4">
+            <h3>Update Manufacturer</h3>
+            <form name="sentMessage" id="contactForm" novalidate>
+
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label>Manufacturer Name ID:</label>
+                        <select class="form-control" id="manufacturerID"></select>
+                    </div>
+                </div>
+
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label>Manufacturer Name:</label>
+                        <input type="tel" class="form-control" id="txtManufacturersName" required data-validation-required-message="Please enter medicine_type name.">
+                    </div>
+                </div>
+
+
+
+                <a class="btn btn-primary" style="color:white" onclick="callManufacturerUpdate()" id="sendMessageButton">Update</a>
+            </form>
+        </div>
+
+    </div>
+    <!-- /.row -->
+
+</div>
+<!-- /.container -->
+
+
+
+<script src="~/js/jquery-1.11.1.min.js"></script>
+<script src="~/js/Master.js"></script>
+<script src="~/js/ManufacturerUpdate.js"></script>

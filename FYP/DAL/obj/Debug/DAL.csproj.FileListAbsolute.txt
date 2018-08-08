@@ -1,0 +1,78 @@
+C:\Users\HAMMAD\Desktop\Bacha project\souq_ul_taib\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\HAMMAD\Desktop\Bacha project\souq_ul_taib\DAL\bin\Debug\DAL.dll
+C:\Users\HAMMAD\Desktop\Bacha project\souq_ul_taib\DAL\bin\Debug\DAL.pdb
+C:\Users\HAMMAD\Desktop\Bacha project\souq_ul_taib\DAL\obj\Debug\DAL.dll
+C:\Users\HAMMAD\Desktop\Bacha project\souq_ul_taib\DAL\obj\Debug\DAL.pdb
+C:\Users\ahmed\Desktop\souq_ul_taib\souq_ul_taib\DAL\bin\Debug\DAL.dll
+C:\Users\ahmed\Desktop\souq_ul_taib\souq_ul_taib\DAL\bin\Debug\DAL.pdb
+C:\Users\ahmed\Desktop\souq_ul_taib\souq_ul_taib\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Desktop\souq_ul_taib\souq_ul_taib\DAL\obj\Debug\DAL.dll
+C:\Users\ahmed\Desktop\souq_ul_taib\souq_ul_taib\DAL\obj\Debug\DAL.pdb
+D:\Rijju\7th Semester\FYP Visual Work\Version5\souq_ul_taib\DAL\bin\Debug\DAL.dll
+D:\Rijju\7th Semester\FYP Visual Work\Version5\souq_ul_taib\DAL\bin\Debug\DAL.pdb
+D:\Rijju\7th Semester\FYP Visual Work\Version5\souq_ul_taib\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Rijju\7th Semester\FYP Visual Work\Version5\souq_ul_taib\DAL\obj\Debug\DAL.dll
+D:\Rijju\7th Semester\FYP Visual Work\Version5\souq_ul_taib\DAL\obj\Debug\DAL.pdb
+D:\Rijju\7th Semester\FYP Visual Work\Version6\souq_ul_taib\DAL\bin\Debug\DAL.dll
+D:\Rijju\7th Semester\FYP Visual Work\Version6\souq_ul_taib\DAL\bin\Debug\DAL.pdb
+D:\Rijju\7th Semester\FYP Visual Work\Version6\souq_ul_taib\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Rijju\7th Semester\FYP Visual Work\Version6\souq_ul_taib\DAL\obj\Debug\DAL.dll
+D:\Rijju\7th Semester\FYP Visual Work\Version6\souq_ul_taib\DAL\obj\Debug\DAL.pdb
+D:\FYP\Current Working\souq_ul_taib\DAL\bin\Debug\DAL.dll
+D:\FYP\Current Working\souq_ul_taib\DAL\bin\Debug\DAL.pdb
+D:\FYP\Current Working\souq_ul_taib\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\FYP\Current Working\souq_ul_taib\DAL\obj\Debug\DAL.dll
+D:\FYP\Current Working\souq_ul_taib\DAL\obj\Debug\DAL.pdb
+D:\FYP\Current Working\cv-2\souq_ul_taib\DAL\bin\Debug\DAL.dll
+D:\FYP\Current Working\cv-2\souq_ul_taib\DAL\bin\Debug\DAL.pdb
+D:\FYP\Current Working\cv-2\souq_ul_taib\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\FYP\Current Working\cv-2\souq_ul_taib\DAL\obj\Debug\DAL.dll
+D:\FYP\Current Working\cv-2\souq_ul_taib\DAL\obj\Debug\DAL.pdb
+D:\Rijju\7th Semester\FYP Visual Work\Version7\souq_ul_taib\DAL\bin\Debug\DAL.dll
+D:\Rijju\7th Semester\FYP Visual Work\Version7\souq_ul_taib\DAL\bin\Debug\DAL.pdb
+D:\Rijju\7th Semester\FYP Visual Work\Version7\souq_ul_taib\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Rijju\7th Semester\FYP Visual Work\Version7\souq_ul_taib\DAL\obj\Debug\DAL.dll
+D:\Rijju\7th Semester\FYP Visual Work\Version7\souq_ul_taib\DAL\obj\Debug\DAL.pdb
+C:\Users\ahmed\Desktop\souq-ul-tib merge\souq_ul_taib\DAL\bin\Debug\DAL.dll
+C:\Users\ahmed\Desktop\souq-ul-tib merge\souq_ul_taib\DAL\bin\Debug\DAL.pdb
+C:\Users\ahmed\Desktop\souq-ul-tib merge\souq_ul_taib\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Desktop\souq-ul-tib merge\souq_ul_taib\DAL\obj\Debug\DAL.dll
+C:\Users\ahmed\Desktop\souq-ul-tib merge\souq_ul_taib\DAL\obj\Debug\DAL.pdb
+D:\VS 2012\souq_ul_taib\DAL\bin\Debug\DAL.dll
+D:\VS 2012\souq_ul_taib\DAL\bin\Debug\DAL.pdb
+D:\VS 2012\souq_ul_taib\DAL\obj\Debug\DAL.dll
+D:\VS 2012\souq_ul_taib\DAL\obj\Debug\DAL.pdb
+D:\VS 2012\souq_ul_taib\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\FYP\Current Working\cv-3 (Bhai)\souq_ul_taib\DAL\bin\Debug\DAL.dll
+D:\FYP\Current Working\cv-3 (Bhai)\souq_ul_taib\DAL\bin\Debug\DAL.pdb
+D:\FYP\Current Working\cv-3 (Bhai)\souq_ul_taib\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\FYP\Current Working\cv-3 (Bhai)\souq_ul_taib\DAL\obj\Debug\DAL.dll
+D:\FYP\Current Working\cv-3 (Bhai)\souq_ul_taib\DAL\obj\Debug\DAL.pdb
+C:\Users\DELL\Downloads\souq_ul_taib(2)\DAL\bin\Debug\DAL.dll
+C:\Users\DELL\Downloads\souq_ul_taib(2)\DAL\bin\Debug\DAL.pdb
+C:\Users\DELL\Downloads\souq_ul_taib(2)\DAL\obj\Debug\DAL.dll
+C:\Users\DELL\Downloads\souq_ul_taib(2)\DAL\obj\Debug\DAL.pdb
+C:\Users\DELL\Downloads\souq_ul_taib(2)\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Rijju\7th Semester\FYP Visual Work\Version10\souq_ul_taib(manufactue and generic comp)\DAL\bin\Debug\DAL.dll
+D:\Rijju\7th Semester\FYP Visual Work\Version10\souq_ul_taib(manufactue and generic comp)\DAL\bin\Debug\DAL.pdb
+D:\Rijju\7th Semester\FYP Visual Work\Version10\souq_ul_taib(manufactue and generic comp)\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Rijju\7th Semester\FYP Visual Work\Version10\souq_ul_taib(manufactue and generic comp)\DAL\obj\Debug\DAL.dll
+D:\Rijju\7th Semester\FYP Visual Work\Version10\souq_ul_taib(manufactue and generic comp)\DAL\obj\Debug\DAL.pdb
+D:\FYP\Current Working\cv-4\souq_ul_taib\DAL\bin\Debug\DAL.dll
+D:\FYP\Current Working\cv-4\souq_ul_taib\DAL\bin\Debug\DAL.pdb
+D:\FYP\Current Working\cv-4\souq_ul_taib\DAL\obj\Debug\DAL.dll
+D:\FYP\Current Working\cv-4\souq_ul_taib\DAL\obj\Debug\DAL.pdb
+C:\Users\ahmed\Desktop\sut\version12 jis mai edit krna hai\souq_ul_taib\DAL\bin\Debug\DAL.dll
+C:\Users\ahmed\Desktop\sut\version12 jis mai edit krna hai\souq_ul_taib\DAL\bin\Debug\DAL.pdb
+C:\Users\ahmed\Desktop\sut\version12 jis mai edit krna hai\souq_ul_taib\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Desktop\sut\version12 jis mai edit krna hai\souq_ul_taib\DAL\obj\Debug\DAL.dll
+C:\Users\ahmed\Desktop\sut\version12 jis mai edit krna hai\souq_ul_taib\DAL\obj\Debug\DAL.pdb
+D:\Rijju\7th Semester\FYP Visual Work\Version13\version12 (comp,session+Log)\souq_ul_taib\DAL\bin\Debug\DAL.dll
+D:\Rijju\7th Semester\FYP Visual Work\Version13\version12 (comp,session+Log)\souq_ul_taib\DAL\bin\Debug\DAL.pdb
+D:\Rijju\7th Semester\FYP Visual Work\Version13\version12 (comp,session+Log)\souq_ul_taib\DAL\obj\Debug\DAL.dll
+D:\Rijju\7th Semester\FYP Visual Work\Version13\version12 (comp,session+Log)\souq_ul_taib\DAL\obj\Debug\DAL.pdb
+D:\FYP\DAL\bin\Debug\DAL.dll
+D:\FYP\DAL\bin\Debug\DAL.pdb
+D:\FYP\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\FYP\DAL\obj\Debug\DAL.dll
+D:\FYP\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,173 @@
+﻿
+@{
+    ViewBag.Title = "Update";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Page Content -->
+<div class="container">
+
+    <!-- Page Heading/Breadcrumbs -->
+    <h1 class="mt-4 mb-3">
+        Medicines
+    </h1>
+
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+            <a href="@Url.Action("Index","Home")">Home</a>
+        </li>
+        <li class="breadcrumb-item active">Medicine Update</li>
+    </ol>
+
+
+
+    <!-- Contact Form -->
+    <!-- In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
+    <div class="row">
+        <div class="col-lg-8 mb-4">
+            <h3>Update Medicine</h3>
+            <form name="sentMessage" id="contactForm" novalidate>
+
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label>Medicine ID:</label>
+                        <select class="form-control" id="ddmedicineidDropDown">
+                            @*<option></option>
+                            <option>1</option>
+                            <option>2</option>
+                            <option>3</option>
+                            <option>4</option>*@
+                        </select>
+                    </div>
+                </div>
+
+
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label>Medicine Name:</label>
+                        <input type="tel" class="form-control" id="txtmedicinename" required data-validation-required-message="Please enter medicine name.">
+                    </div>
+                </div>
+
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label>Medicine Type ID:</label>
+                        <select class="form-control" id="ddmedicinetypeidDropDown">
+                            @*<option></option>
+                            <option>1</option>
+                            <option>2</option>
+                            <option>3</option>
+                            <option>4</option>*@
+                        </select>
+                    </div>
+                </div>
+
+
+
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label>Product Content Value:</label>
+                        <input type="tel" class="form-control" id="txtmedicinecontentvalue" required data-validation-required-message="Please enter product content value.">
+                    </div>
+                </div>
+
+
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label>Product Content Type:</label>
+                        <input type="tel" class="form-control" id="txtmedicinecontenttype" required data-validation-required-message="Please enter product content typer.">
+                    </div>
+                </div>
+
+
+
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label>Medicine Packet Size:</label>
+                        <input type="tel" class="form-control" id="txtpacketsize" required data-validation-required-message="Please enter meicine packet size.">
+                    </div>
+                </div>
+
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label>Medicine Packet Price:</label>
+                        <input type="tel" class="form-control" id="txtpacketprice" required data-validation-required-message="Please enter medicine packet price.">
+                    </div>
+                </div>
+
+
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label>Manufacture Name ID:</label>
+                        <select class="form-control" id="ddmanufactureidDropDown">
+                            @*<option></option>
+                            <option>1</option>
+                            <option>2</option>
+                            <option>3</option>
+                            <option>4</option>*@
+                        </select>
+                    </div>
+                </div>
+
+
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label>Generic Name ID:</label>
+                        <select class="form-control" id="ddgenericnameidDropDown">
+                            @*<option></option>
+                            <option>1</option>
+                            <option>2</option>
+                            <option>3</option>
+                            <option>4</option>*@
+                        </select>
+                    </div>
+                </div>
+
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label>Dosage:</label>
+                        <input type="tel" class="form-control" id="txtdosage" required data-validation-required-message="Please enter dosage.">
+                    </div>
+                </div>
+
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label>Medicine Usage:</label>
+                        <input type="tel" class="form-control" id="txtusage" required data-validation-required-message="Please enter medicine uasage.">
+                    </div>
+                </div>
+
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label>Medicine Side Effects:</label>
+                        <input type="tel" class="form-control" id="txtsideeffect" required data-validation-required-message="Please enter medicine side effect.">
+                    </div>
+                </div>
+
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label>Alternate:</label>
+                        <input type="tel" class="form-control" id="txtalternate" required data-validation-required-message="Please enter medicine alternate.">
+                    </div>
+                </div>
+
+
+
+
+                <div id="success"></div>
+                <!-- For success/fail messages -->
+                <a class="btn btn-primary" style="color:white" onclick="callMedicineUpdate()" id="sendMessageButton">Update</a>
+            </form>
+        </div>
+
+    </div>
+    <!-- /.row -->
+
+</div>
+<!-- /.container -->
+
+
+
+<script src="~/js/jquery-1.11.1.min.js"></script>
+<script src="~/js/Master.js"></script>
+<script src="~/js/MedicineUpdate.js"></script>

@@ -1,0 +1,60 @@
+﻿
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Page Content -->
+<div class="container">
+
+    <!-- Page Heading/Breadcrumbs -->
+    <h1 class="mt-4 mb-3">
+        Generic
+
+    </h1>
+
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+            <a href="@Url.Action("Index","Home")">Home</a>
+        </li>
+        <li class="breadcrumb-item active">Generic Name Delete</li>
+    </ol>
+
+
+
+    <!-- Contact Form -->
+    <!-- In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
+    <div class="row">
+        <div class="col-lg-8 mb-4">
+            <h3>Delete Generic Name</h3>
+            <form name="sentMessage" id="contactForm" novalidate>
+
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label>Generic Name ID:</label>
+                        <select class="form-control" id="ddgenericnameDropDown">
+                            
+                        </select>
+                    </div>
+                </div>
+
+                
+
+                <a class="btn btn-primary" style="color:white" onclick="delGenericName()" id="sendMessageButton">Delete</a>
+
+
+                @*<button type="submit" class="btn btn-primary" id="sendMessageButton">Delete</button>*@
+            </form>
+        </div>
+
+    </div>
+    <!-- /.row -->
+
+</div>
+<!-- /.container -->
+
+
+
+<script src="~/js/jquery-1.11.1.min.js"></script>
+<script src="~/js/Master.js"></script>
+<script src="~/js/GenericnameDelete.js"></script>

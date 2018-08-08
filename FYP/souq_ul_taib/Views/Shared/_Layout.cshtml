@@ -1,0 +1,138 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>@ViewBag.Title</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="@Url.Content("~/vendor/bootstrap/css/bootstrap.min.css")" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="@Url.Content("~/css/modern-business.css")" rel="stylesheet">
+    <script src="~/vendor/jquery/jquery.min.js"></script>
+    <script>
+        function preventBack() {
+            window.history.forward();
+        }
+        setTimeout("preventBack()", 0);
+        window.onunload = function () {
+            null
+        };
+
+        $(document).ready(function () {
+
+            setTimeout(function () {
+                debugger;
+                window.location.href = "/Home/logout";
+            }, 120000)
+            ;
+
+        });
+    </script>
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar fixed-top navbar-expand-lg navbar-light" style="background-color: #90caf9; fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="index.html"><img src="~/Content/image/1.png" class="img-responsive" alt="logo" width="50" height="50">&nbsp;<text class="text-white"><i><b>Souq-Ul-Tib</b></i></text></a>
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#"  style="color:white" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <text class="text-white"> Medicines</text>
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
+                            <a class="dropdown-item" href="@Url.Action("Insert","Medicines")">Insert Medicine</a>
+                            <a class="dropdown-item" href="@Url.Action("Update","Medicines")">Update Medicine</a>
+                            <a class="dropdown-item" href="@Url.Action("Delete","Medicines")">Delete Medicine</a>
+                        </div>
+                    </li>
+
+
+
+
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" style="color:white" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <text class="text-white">  Medicines Type</text>
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
+                            <a class="dropdown-item" href="@Url.Action("Insert","Medicinetypenames")">Insert Medicine</a>
+                            <a class="dropdown-item" href="@Url.Action("Update","Medicinetypenames")">Update Medicine</a>
+                            <a class="dropdown-item" href="@Url.Action("Delete","Medicinetypenames")">Delete Medicine</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" style="color:white" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <text class="text-white">  Generic Name</text>
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
+                            <a class="dropdown-item" href="@Url.Action("Insert","Genericnames")">Insert</a>
+                            <a class="dropdown-item" href="@Url.Action("Update","Genericnames")">Update</a>
+                            <a class="dropdown-item" href="@Url.Action("Delete","Genericnames")">Delete</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" style="color:white" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <text class="text-white">  Manufacturer </text>
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
+                            <a class="dropdown-item" href="@Url.Action("Insert","Manufacturers")">Insert</a>
+                            <a class="dropdown-item" href="@Url.Action("Update","Manufacturers")">Update</a>
+                            <a class="dropdown-item" href="@Url.Action("Delete","Manufacturers")">Delete</a>
+
+                        </div>
+                    </li>
+
+                    <li class="nav-item active">
+                        <a class="nav-link" href="@Url.Action("signup", "home")"><text class="text-white">Account</text></a>
+                    </li>
+
+                    <li class="nav-item active">
+                        <a class="nav-link" href="@Url.Action("logout","home")"><text class="text-white">Logout</text></a>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    @RenderBody()
+
+
+    <!-- Footer -->
+    <footer class="py-5 bg-info">
+        <div class="container">
+            <p class="m-0 text-center text-white">Contact to: rsksfyp@gmail.com</p>
+        </div>
+        <!-- /.container -->
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="@Url.Content("~/vendor/jquery/jquery.min.js")"></script>
+    <script src="@Url.Content("~/vendor/bootstrap/js/bootstrap.bundle.min.js")"></script>
+
+</body>
+
+</html>
+
+
+
+
+
+
+

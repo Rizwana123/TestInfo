@@ -1,0 +1,65 @@
+﻿
+@{
+    ViewBag.Title = "Update";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Page Content -->
+<div class="container">
+
+    <!-- Page Heading/Breadcrumbs -->
+    <h1 class="mt-4 mb-3">
+        Generic
+
+    </h1>
+
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+            <a href="@Url.Action("Index","Home")">Home</a>
+        </li>
+        <li class="breadcrumb-item active">Generic Name Update</li>
+    </ol>
+
+
+
+    <!-- Contact Form -->
+    <!-- In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
+    <div class="row">
+        <div class="col-lg-8 mb-4">
+            <h3>Update Generic Name</h3>
+            <form name="sentMessage" id="contactForm" novalidate>
+
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label>Generic Name ID:</label>
+                        <select class="form-control" id="ddgenericnameDropDown">
+                           
+                        </select>
+                    </div>
+                </div>
+
+
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label>Generic Name:</label>
+                        <input type="text" class="form-control" id="txtGenericName" required data-validation-required-message="Please enter generic name.">
+                        @*<p class="help-block"></p>*@
+                    </div>
+                </div>
+
+                <a class="btn btn-primary" style="color:white" onclick="callGenericnameUpdate()" id="sendMessageButton">Update</a>
+
+                @*<button type="submit" class="btn btn-primary" id="sendMessageButton">Update</button>*@
+            </form>
+        </div>
+
+    </div>
+    <!-- /.row -->
+
+</div>
+<!-- /.container -->
+
+
+<script src="~/js/jquery-1.11.1.min.js"></script>
+<script src="~/js/Master.js"></script>
+<script src="~/js/GenericnameUpdate.js"></script>
