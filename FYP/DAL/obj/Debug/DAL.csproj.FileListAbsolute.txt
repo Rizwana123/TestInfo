@@ -76,3 +76,8 @@ D:\FYP\DAL\bin\Debug\DAL.pdb
 D:\FYP\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 D:\FYP\DAL\obj\Debug\DAL.dll
 D:\FYP\DAL\obj\Debug\DAL.pdb
+D:\FYP\GitWorkshop\TestInfo\FYP\DAL\bin\Debug\DAL.dll
+D:\FYP\GitWorkshop\TestInfo\FYP\DAL\bin\Debug\DAL.pdb
+D:\FYP\GitWorkshop\TestInfo\FYP\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\FYP\GitWorkshop\TestInfo\FYP\DAL\obj\Debug\DAL.dll
+D:\FYP\GitWorkshop\TestInfo\FYP\DAL\obj\Debug\DAL.pdb

@@ -371,7 +371,6 @@
     <Content Include="Views\Genericnames\Delete.cshtml" />
     <Content Include="Views\Manufacturers\Insert.cshtml" />
     <Content Include="Views\Manufacturers\Update.cshtml" />
-    <Content Include="Views\Manufacturers\Delete.cshtml" />
     <Content Include="Views\Medicinetypenames\Insert.cshtml" />
     <Content Include="Views\Medicinetypenames\Update.cshtml" />
     <Content Include="Views\Medicinetypenames\Delete.cshtml" />

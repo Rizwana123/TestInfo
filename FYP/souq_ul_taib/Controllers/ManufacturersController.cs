@@ -27,7 +27,6 @@ namespace souq_ul_taib.Controllers
             ViewBag.Title = "Manufacturer_Delete Page";
             return View();
         }
-
     }
     
 }
